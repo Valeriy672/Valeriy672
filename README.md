@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hi there, i'm Valeriy👋
 
 <!--
-👋 I'm Valeriy
 
  I'm an aspiring front-end developer with solid knowledge of HTML and CSS, and a foundational understanding of JavaScript.
 

@@ -1,16 +1,15 @@
 ## Hi there 👋
 
 <!--
-**Valeriy672/Valeriy672** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 I'm Valeriy
 
-Here are some ideas to get you started:
+ I'm an aspiring front-end developer with solid knowledge of HTML and CSS, and a foundational understanding of JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ I'm currently learning by building real projects and preparing my first portfolio.
+
+ Tech Stack:
+- HTML5 / CSS3
+- JavaScript (basic)
+- Git / GitHub / VS Code
+
+📈 My goal: keep growing, get hands-on experience, and start working on real-world tasks.

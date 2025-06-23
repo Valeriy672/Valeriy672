@@ -11,4 +11,4 @@
 - JavaScript (basic)
 - Git / GitHub / VS Code
 
-📈 My goal: keep growing, get hands-on experience, and start working on real-world tasks.
+📈 My goal: keep growing, get hands-on experience, and start working with real tasks.
